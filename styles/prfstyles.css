@@ -1,6 +1,7 @@
 
 body {
 	background-color: white;
+	font-family: "Oswald", sans-serif;
 }
 
 
@@ -18,7 +19,7 @@ body {
 	margin: 0 auto;
 	text-align: center;
 	font-size: 5vw;
-	font-family: 'Oswald', serif;
+	font-family: 'Oswald', sans-serif;
 }
 
 .header-left {
@@ -42,7 +43,7 @@ body {
 
 
 nav {
-	font-family: "Oswald", serif;
+	font-family: "Oswald", sans-serif;
 	list-style: none;
 	padding: 0; 
 	text-align: center;
@@ -112,7 +113,7 @@ nav a:visited {
 
 .donate div {
 	text-align: center;
-	font-family: "Oswald", serif;
+	font-family: "Oswald", sans-serif;
 }
 
 .donate {
@@ -135,7 +136,7 @@ nav a:visited {
 
 
 footer {
-	font-family: "Courier New";
+	font-family: "Courier New", serif;
 	font-size: 10px;
 	text-align: center;
 	padding: 20px 0 5px 0;
