@@ -1,43 +1,73 @@
-.ferret-content {
+.team-content {
 	max-width: 100%;
 	margin: 0 60px 0 60px;
 	height: 1900px;
 	background-color: #E2E8F2;
 	border-top: solid black 5px;
 }
-.ferret-intro {
-	font-size: 1.3vw;
+
+.team-info {
+	width: 60%;
+	margin: 60px auto;
+}
+
+.arnold {
+	width: 90%;
+	display: block;
+	margin: 80px auto 0 auto;
+}
+
+.team-info h1{
+	font-size: 2vw;
 	text-align: center;
-	padding: 1px 2px;
-	margin-top: 50px;
+	border-bottom: solid black 4px;
+	margin-bottom: 40px;
+	clear: both;
 }
-.ferret-intro-image {
-	float: right;
-	margin-right: 5px;
-	margin-top: 5px;
-	margin: 20px 5px 0 10px;
+
+.endblurb {
+	border-bottom: solid black 4px;
+	margin-bottom: 50px;
 }
-.ferret-nav {
-	width: 110px;
-	height: 150px;
-	text-align: left;
+
+.team-info h2 {
+	margin: 40px 0 40px 0;
+}
+
+.zach, .steve {
+	width: 35%;
 	float: left;
-	padding: 5px;
-	margin:20px 10px 0 5px;
-	font-size: 1.2vw;
+	margin: 0 40px 0px 0;
 }
-.ferret-nav a{
-	text-decoration: none;
-	color: #F15206;
+
+
+
+.volunteers {
+	width: 80%;
+	display: block;
+	margin: 0px auto 0 auto;
+	clear: both;
 }
-.ferret-nav ul{
-	padding: 0;
-	margin: 0;
-}
-.ferret-nav li{
-	padding: 0 10px 0 0;
-	margin-left: 15px;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 .ferret-list {
 	font-size: 1.1vw;
 	display: block;
@@ -50,7 +80,7 @@
 .ferret-list h1{
 	font-size: 2vw;
 	text-align: center;
-	border-bottom: solid black 4px;
+	border-bottom: solid;
 }
 .ferret-list h2{
 	margin-top: 30px;
@@ -79,3 +109,4 @@
 	margin-right: 30px;
 	display: inline-block;
 }
+*/

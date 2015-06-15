@@ -13,13 +13,13 @@
 .manhole {
 	display: block;
 	width: 20%;
-	padding: 10px;
+	margin: 10px;
 	float: left;
 }
 .toiletferret {
 	display: block;
 	width: 20%;
-	padding: 10px;
+	margin: 0 10px 0 10px;
 	float: right;
 }
 
