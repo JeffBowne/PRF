@@ -1,7 +1,7 @@
 .about-content {
 	max-width: 100%;
 	margin: 0 60px 0 60px;
-	height: 1850px;
+	padding-bottom: 100px;
 	background-color: #E2E8F2;
 	border-top: solid black 5px;
 }
