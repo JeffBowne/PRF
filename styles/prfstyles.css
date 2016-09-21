@@ -12,6 +12,7 @@ body {
 	position: relative;
 	background-color: #94ABB9;
 	border-bottom: solid black 5px;
+	overflow: hidden;
 }
 
 .header div {
